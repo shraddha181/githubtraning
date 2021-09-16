@@ -5,3 +5,6 @@ color
 vibrant
 
 Dark mode on
+payment option
+video call
+send money
